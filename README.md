@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is JAmes Muchiri and I'm a FullStack Developer, from Nairobi Kenya</h2>
+<h2 align="left">Hi 👋! My name is James Muchiri and I'm a FullStack Developer, from Nairobi Kenya</h2>
 
 ###
 
