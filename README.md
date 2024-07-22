@@ -51,7 +51,7 @@ Things I code with
 <h1>Copy Profile</h1>
 
 ```md
-https://https://github.com/DataGeek404/
+https://github.com/DataGeek404/
 ```
 
 
