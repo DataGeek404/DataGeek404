@@ -12,7 +12,7 @@
 
 ## 👋 About Me
 
-Hi, I'm **James Muchiri** — a passionate **Fullstack Developer** from **Kenya** 🇰🇪. I design and build end-to-end web applications with a keen eye on performance, UX, and clean code.
+Hi, I'm **James Muchiri** — a passionate **Fullstack Developer**. I design and build end-to-end web applications with a keen eye on performance, UX, and clean code.
 
 - 🌱 Currently growing my expertise in DevOps and cloud-native tools.
 - 💬 I love discussing software architecture and collaborating on open-source.
