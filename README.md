@@ -12,17 +12,17 @@
 
 ## 👋 About Me
 
-Hi, I'm **James Muchiri** — a passionate **Fullstack Developer** based in **Kenya** 🇰🇪. I specialize in building robust, scalable, and elegant digital applications from front to back.
+Hi, I'm **James Muchiri** — a passionate **Fullstack Developer** from **Kenya** 🇰🇪. I design and build end-to-end web applications with a keen eye on performance, UX, and clean code.
 
-💼 I love crafting clean UIs, engineering efficient backends, and integrating APIs that make applications come alive.  
-🌱 I'm continuously growing by exploring emerging technologies and refining my craft through real-world challenges.  
-🤝 Team collaboration and strong communication are core to my workflow.
+- 🌱 Currently growing my expertise in DevOps and cloud-native tools.
+- 💬 I love discussing software architecture and collaborating on open-source.
+- ⚡ Fun fact: I think in code and dream in JavaScript.
 
 ---
 
 ## 🔧 Tech Stack
 
-### 🖥️ Languages, Frameworks & Libraries
+### 💻 Languages, Frameworks & Libraries
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,python,cs,kotlin" />
@@ -30,13 +30,13 @@ Hi, I'm **James Muchiri** — a passionate **Fullstack Developer** based in **Ke
   <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,django,bootstrap,jquery" />
 </div>
 
-### 🗃️ Databases & Tools
+### 🗄️ Databases & Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,aws,heroku,postman" />
 </div>
 
-### ⚙️ Others
+### ⚙️ Other Technologies
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=apache,npm,electron" />
@@ -46,15 +46,33 @@ Hi, I'm **James Muchiri** — a passionate **Fullstack Developer** based in **Ke
 
 ## 📈 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=James-muchiri&show_icons=true&theme=radical&count_private=true&hide=issues&hide_border=true" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=James-muchiri&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=James-muchiri&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=James-muchiri&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=James-muchiri&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=James-muchiri&theme=radical&no-bg=true&no-frame=true&margin-w=10" alt="Trophies" />
 </p>
 
 ---
 
-## 📫 Let's Connect
+## 🌍 Contribution Heatmap
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=James-muchiri&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
+## 📫 Contact Me
 
 - 🔗 [LinkedIn: muchiri-james](https://www.linkedin.com/in/muchiri-james-12b090317/)
 - 📧 Email: [techspaceerror404@gmail.com](mailto:techspaceerror404@gmail.com)
@@ -65,9 +83,9 @@ Hi, I'm **James Muchiri** — a passionate **Fullstack Developer** based in **Ke
 ## 🎯 2025 Goals
 
 - 🚀 Launch a full SaaS product
-- 📚 Contribute to open-source projects monthly
-- ☁️ Become certified in cloud-native architecture
-- 🤝 Mentor junior developers in my community
+- 📚 Regularly contribute to open-source
+- ☁️ Get certified in cloud-native tools (Docker, Kubernetes)
+- 👨‍🏫 Mentor junior developers locally and online
 
 ---
 
@@ -77,4 +95,4 @@ Hi, I'm **James Muchiri** — a passionate **Fullstack Developer** based in **Ke
 
 ---
 
-> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+> *“Simplicity is the soul of efficiency.” – Austin Freeman*
