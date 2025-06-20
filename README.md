@@ -22,14 +22,16 @@ Hi, I'm **James Muchiri** — a passionate **Fullstack Developer** from **Kenya*
 
 ## 🔧 Tech Stack
 
-### Front-end Frameworks & Libraries
+### 🖥️ Frontend Languages & Libraries
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,cs" />
-  
-  <br/>
-###  Back-end Frameworks & Libraries
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,django,bootstrap,jquery" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery" />
+</div>
+
+### 🧠 Backend Languages & Frameworks
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,python,cs,nodejs,express,laravel,django" />
 </div>
 
 ### 🗄️ Databases & Tools
@@ -38,14 +40,13 @@ Hi, I'm **James Muchiri** — a passionate **Fullstack Developer** from **Kenya*
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,aws,heroku,postman" />
 </div>
 
-### ⚙️ Other Technologies
+### ⚙️ Dev & Runtime Environments
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=apache,npm,electron" />
 </div>
 
 ---
-
 
 ## 📫 Contact Me
 
