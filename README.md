@@ -28,7 +28,7 @@ Hi, I'm **James Muchiri** — a passionate **Fullstack Developer** from **Kenya*
   <img src="https://skillicons.dev/icons?i=html,css,js,php,python,cs" />
   
   <br/>
-  ###  Back-end Frameworks & Libraries
+###  Back-end Frameworks & Libraries
   <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,django,bootstrap,jquery" />
 </div>
 
