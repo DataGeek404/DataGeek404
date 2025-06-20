@@ -44,33 +44,6 @@ Hi, I'm **James Muchiri** — a passionate **Fullstack Developer** from **Kenya*
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=James-muchiri&show_icons=true&theme=radical&count_private=true&hide=issues&hide_border=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=James-muchiri&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=James-muchiri&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=James-muchiri&theme=radical&no-bg=true&no-frame=true&margin-w=10" alt="Trophies" />
-</p>
-
----
-
-## 🌍 Contribution Heatmap
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=James-muchiri&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
 
 ## 📫 Contact Me
 
