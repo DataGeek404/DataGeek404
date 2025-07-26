@@ -31,7 +31,7 @@ Hi, I'm **James Muchiri** — a passionate **Fullstack Developer**. I design and
 ### 🧠 Backend Languages & Frameworks
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,python,cs,nodejs,express,laravel,django" />
+  <img src="https://skillicons.dev/icons?i=php,nodejs,next js, express,laravel" />
 </div>
 
 ### 🗄️ Databases & Tools
