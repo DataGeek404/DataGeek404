@@ -12,47 +12,53 @@
 
 ## 👋 About Me
 
-Hi, I'm **James Muchiri** — a passionate **Fullstack Developer**. I design and build end-to-end web applications with a keen eye on performance, UX, and clean code.
+Hi, I'm **James Muchiri**, a passionate **Fullstack Developer** who crafts performant, user-friendly web applications with clean and scalable architecture.
 
-- 🌱 Currently growing my expertise in DevOps and cloud-native tools.
-- 💬 I love discussing software architecture and collaborating on open-source.
-- ⚡ Fun fact: I think in code and dream in JavaScript.
+- 🌱 Currently growing my skills in **DevOps** and **Cloud-Native Technologies**
+- 💬 Love chatting about **software architecture**, **open-source**, and **clean code**
+- ⚡ Fun fact: I think in code and dream in JavaScript
 
 ---
 
-## 🔧 Tech Stack
+## 💻 Tech Stack
 
-### 🖥️ Frontend Languages & Libraries
+### 🖥️ Frontend
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind" />
+</p>
 
-### 🧠 Backend Languages & Frameworks
+### 🧠 Backend
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=php,nodejs,next js, express,laravel" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
+</p>
 
 ### 🗄️ Databases & Tools
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,aws,heroku,postman" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres,postman" />
+</p>
 
-### ⚙️ Dev & Runtime Environments
+### ☁️ DevOps & Cloud
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=apache,npm,electron" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,heroku" />
+</p>
+
+### ⚙️ Other Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,electron,apache" />
+</p>
 
 ---
 
 ## 📫 Contact Me
 
 - 🔗 [LinkedIn: muchiri-james](https://www.linkedin.com/in/muchiri-james-12b090317/)
-- 📧 Email: [techspaceerror404@gmail.com](mailto:techspaceerror404@gmail.com)
-- 🌐 GitHub: [github.com/DataGeek404](https://github.com/DataGeek404)
+- 📧 [techspaceerror404@gmail.com](mailto:techspaceerror404@gmail.com)
+- 🌐 [GitHub: DataGeek404](https://github.com/DataGeek404)
 
 ---
 
@@ -60,7 +66,7 @@ Hi, I'm **James Muchiri** — a passionate **Fullstack Developer**. I design and
 
 - 🚀 Launch a full SaaS product
 - 📚 Regularly contribute to open-source
-- ☁️ Get certified in cloud-native tools (Docker, Kubernetes)
+- ☁️ Get certified in **Docker** and **Kubernetes**
 - 👨‍🏫 Mentor junior developers locally and online
 
 ---
@@ -71,4 +77,4 @@ Hi, I'm **James Muchiri** — a passionate **Fullstack Developer**. I design and
 
 ---
 
-> *“Simplicity is the soul of efficiency.” – Austin Freeman*
+> _“Simplicity is the soul of efficiency.” – Austin Freeman_
