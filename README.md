@@ -1,80 +1,88 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF94&vCenter=true&width=1000&height=60&lines=Hi+there+👋+I'm+James+Muchiri;+A+Creative+Fullstack+Developer;+I+Build+End-to-End+Digital+Solutions)](https://git.io/typing-svg)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=James-muchiri&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
-</p>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=24&duration=3000&pause=500&color=F7D700&center=true&vCenter=true&width=800&lines=Turning+ideas+into+scalable+solutions...;Always+learning,+always+building..." />
+
+<img src="assets/banner.svg" alt="James Muchiri - Fullstack Developer" width="100%">
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-muchiri--james-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muchiri-james-12b090317/)
+[![Email](https://img.shields.io/badge/Email-techspaceerror404%40gmail.com-1f2937?style=flat-square&logo=gmail&logoColor=white)](mailto:techspaceerror404@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-DataGeek404-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/DataGeek404)
+
 </div>
 
 ---
 
-## 👋 About Me
+## Profile
 
-Hi, I'm **James Muchiri**, a passionate **Fullstack Developer** who crafts performant, user-friendly web applications with clean and scalable architecture.
+Fullstack engineer focused on building performant, maintainable web and mobile applications and the infrastructure that runs them. I care about clear architecture, readable code, and systems that stay easy to change as they grow.
 
-- 🌱 Currently growing my skills in **DevOps** and **Cloud-Native Technologies**
-- 💬 Love chatting about **software architecture**, **open-source**, and **clean code**
-- ⚡ Fun fact: I think in code and dream in JavaScript
+Currently deepening my work in DevOps and cloud-native technologies, with a focus on containerized delivery and repeatable deployments.
 
 ---
 
-## 💻 Tech Stack
+## Focus Areas
 
-### 🖥️ Frontend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind" />
-</p>
-
-### 🧠 Backend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
-</p>
-
-### 🗄️ Databases & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres,postman" />
-</p>
-
-### ☁️ DevOps & Cloud
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,heroku" />
-</p>
-
-### ⚙️ Other Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,electron,apache" />
-</p>
+| Area | What I do |
+| :--- | :--- |
+| **Application Architecture** | Design modular, scalable backends and frontends with clear boundaries and sensible defaults |
+| **Fullstack Delivery** | Take features from data model and API design through to polished, accessible interfaces |
+| **Mobile Development** | Build cross-platform Android and iOS applications with Flutter and Dart, backed by well-designed APIs |
+| **Cloud and DevOps** | Containerize services, automate builds and deployments, and run workloads on managed cloud platforms |
+| **Developer Experience** | Write clean, documented, testable code that other engineers can pick up quickly |
 
 ---
 
-## 📫 Contact Me
+## Technical Stack
 
-- 🔗 [LinkedIn: muchiri-james](https://www.linkedin.com/in/muchiri-james-12b090317/)
-- 📧 [techspaceerror404@gmail.com](mailto:techspaceerror404@gmail.com)
-- 🌐 [GitHub: DataGeek404](https://github.com/DataGeek404)
-
----
-
-## 🎯 2025 Goals
-
-- 🚀 Launch a full SaaS product
-- 📚 Regularly contribute to open-source
-- ☁️ Get certified in **Docker** and **Kubernetes**
-- 👨‍🏫 Mentor junior developers locally and online
+| Layer | Technologies |
+| :--- | :--- |
+| **Languages** | TypeScript, JavaScript, Dart, PHP, SQL, HTML, CSS |
+| **Frontend** | React, Next.js, Tailwind CSS, Bootstrap |
+| **Mobile** | Flutter, Dart |
+| **Backend** | Node.js, Express, Laravel |
+| **Data** | PostgreSQL, MySQL, MongoDB, SQLite |
+| **Infrastructure** | Docker, Kubernetes, AWS, Heroku, Apache |
+| **Tooling** | Git, GitHub, Postman, npm, Electron, VS Code |
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90%" height="250" />
-</p>
+## Engineering Principles
+
+- **Simplicity over cleverness.** The best solution is usually the one that is easiest to understand and maintain.
+- **Design for change.** Clear interfaces and small, focused modules make systems easier to evolve.
+- **Own the full lifecycle.** Building a feature includes testing it, shipping it, and operating it.
+- **Document decisions.** Good READMEs, commit messages, and architecture notes save the whole team time.
 
 ---
 
-> _“Simplicity is the soul of efficiency.” – Austin Freeman_
+## Selected Work
+
+<!--
+Replace each row with a real project. Keep descriptions to one line:
+the problem, what you built, and the result.
+-->
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| [Project Name](https://github.com/DataGeek404/repo-name) | One-line summary of the problem solved and the outcome | Next.js, Node.js, PostgreSQL |
+| [Project Name](https://github.com/DataGeek404/repo-name) | One-line summary of the problem solved and the outcome | React, Express, MongoDB |
+| [Project Name](https://github.com/DataGeek404/repo-name) | One-line summary of the problem solved and the outcome | Laravel, MySQL, Docker |
+| [Mobile App Name](https://github.com/DataGeek404/repo-name) | One-line summary of the problem solved and the outcome | Flutter, Dart, REST API |
+
+---
+
+## Current Goals
+
+- Launch a full SaaS product
+- Earn certifications in Docker and Kubernetes
+- Contribute regularly to open source
+- Mentor junior developers, locally and online
+
+---
+
+## Get in Touch
+
+Open to conversations about software architecture, web and mobile development, open-source collaboration, and engineering roles.
+
+- Email: [techspaceerror404@gmail.com](mailto:techspaceerror404@gmail.com)
+- LinkedIn: [muchiri-james](https://www.linkedin.com/in/muchiri-james-12b090317/)
