@@ -55,21 +55,6 @@ Currently deepening my work in DevOps and cloud-native technologies, with a focu
 
 ---
 
-## Selected Work
-
-<!--
-Replace each row with a real project. Keep descriptions to one line:
-the problem, what you built, and the result.
--->
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| [Project Name](https://github.com/DataGeek404/repo-name) | One-line summary of the problem solved and the outcome | Next.js, Node.js, PostgreSQL |
-| [Project Name](https://github.com/DataGeek404/repo-name) | One-line summary of the problem solved and the outcome | React, Express, MongoDB |
-| [Project Name](https://github.com/DataGeek404/repo-name) | One-line summary of the problem solved and the outcome | Laravel, MySQL, Docker |
-| [Mobile App Name](https://github.com/DataGeek404/repo-name) | One-line summary of the problem solved and the outcome | Flutter, Dart, REST API |
-
----
 
 ## Current Goals
 
